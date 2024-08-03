@@ -1,0 +1,19 @@
+header, nav, main, aside, footer{
+    border-style:dotted;
+}
+
+header{
+    text-align: center;
+}
+main{
+    float: left;
+    width: 75%;
+}
+aside{
+    float: right;
+    width: 20%;
+}
+footer{
+    clear: both;
+    width:100%;
+}
